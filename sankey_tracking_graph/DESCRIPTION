@@ -1,0 +1,13 @@
+Package: sankeyTrackingGraph
+Title: Use a Sankey diagram as a nested tracking graph to track changes in a partitioning over a parameters.
+Version: 0.0.4
+Description: Use a Sankey diagram as a nested tracking graph to track changes in a partitioning over a parameters.
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: 
+BugReports: 
+Encoding: UTF-8
+LazyData: true
+KeepSource: true

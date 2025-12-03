@@ -1,0 +1,11 @@
+include sankey_tracking_graph/sankey_tracking_graph.min.js
+include sankey_tracking_graph/sankey_tracking_graph.min.js.map
+include sankey_tracking_graph/async-*.js
+include sankey_tracking_graph/async-*.js.map
+include sankey_tracking_graph/*-shared.js
+include sankey_tracking_graph/*-shared.js.map
+include sankey_tracking_graph/metadata.json
+include sankey_tracking_graph/package-info.json
+include README.md
+include LICENSE
+include package.json

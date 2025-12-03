@@ -1,0 +1,9 @@
+--extra-index-url https://test.pypi.org/simple/
+dash
+dash_bootstrap_components
+dash_daq
+numpy
+plotly
+sankey_tracking_graph
+uncertain_graph_view
+dash-auth

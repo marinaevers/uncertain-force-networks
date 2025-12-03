@@ -1,0 +1,11 @@
+include uncertain_graph_view/uncertain_graph_view.min.js
+include uncertain_graph_view/uncertain_graph_view.min.js.map
+include uncertain_graph_view/async-*.js
+include uncertain_graph_view/async-*.js.map
+include uncertain_graph_view/*-shared.js
+include uncertain_graph_view/*-shared.js.map
+include uncertain_graph_view/metadata.json
+include uncertain_graph_view/package-info.json
+include README.md
+include LICENSE
+include package.json
